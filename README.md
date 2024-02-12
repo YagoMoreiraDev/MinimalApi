@@ -27,7 +27,7 @@ Pré-requisitos: .NET 8.0
 
 Yago Moreira
 
-linkedin.com/in/yago-moreira
+https://www.linkedin.com/in/yago-moreira
 
 # Créditos
 
